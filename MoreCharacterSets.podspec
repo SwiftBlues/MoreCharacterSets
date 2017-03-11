@@ -14,8 +14,6 @@ DESC
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0' 
   s.source_files = 'Sources/**/*'
-  s.resource_bundles = {
-    'MoreCharacterSets' => ['Resources/*.bitmap']
-  }
+  s.resource_bundles = { 'MoreCharacterSets' => ['Resources/**/*'] }
 end
 

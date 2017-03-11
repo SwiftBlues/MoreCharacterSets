@@ -15,6 +15,122 @@
 		FFCE16DF1E746723001C18C4 /* CharacterSetExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFCE16DD1E746723001C18C4 /* CharacterSetExtensions.swift */; };
 		FFCE16E01E746723001C18C4 /* CharacterSetExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFCE16DD1E746723001C18C4 /* CharacterSetExtensions.swift */; };
 		FFCE16E11E746723001C18C4 /* CharacterSetExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFCE16DD1E746723001C18C4 /* CharacterSetExtensions.swift */; };
+		FFCE183E1E748D28001C18C4 /* Cc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18211E748D28001C18C4 /* Cc.bitmap */; };
+		FFCE183F1E748D28001C18C4 /* Cc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18211E748D28001C18C4 /* Cc.bitmap */; };
+		FFCE18401E748D28001C18C4 /* Cc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18211E748D28001C18C4 /* Cc.bitmap */; };
+		FFCE18411E748D28001C18C4 /* Cc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18211E748D28001C18C4 /* Cc.bitmap */; };
+		FFCE18421E748D28001C18C4 /* Cf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18221E748D28001C18C4 /* Cf.bitmap */; };
+		FFCE18431E748D28001C18C4 /* Cf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18221E748D28001C18C4 /* Cf.bitmap */; };
+		FFCE18441E748D28001C18C4 /* Cf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18221E748D28001C18C4 /* Cf.bitmap */; };
+		FFCE18451E748D28001C18C4 /* Cf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18221E748D28001C18C4 /* Cf.bitmap */; };
+		FFCE18461E748D28001C18C4 /* Co.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18231E748D28001C18C4 /* Co.bitmap */; };
+		FFCE18471E748D28001C18C4 /* Co.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18231E748D28001C18C4 /* Co.bitmap */; };
+		FFCE18481E748D28001C18C4 /* Co.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18231E748D28001C18C4 /* Co.bitmap */; };
+		FFCE18491E748D28001C18C4 /* Co.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18231E748D28001C18C4 /* Co.bitmap */; };
+		FFCE184A1E748D28001C18C4 /* Cs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18241E748D28001C18C4 /* Cs.bitmap */; };
+		FFCE184B1E748D28001C18C4 /* Cs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18241E748D28001C18C4 /* Cs.bitmap */; };
+		FFCE184C1E748D28001C18C4 /* Cs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18241E748D28001C18C4 /* Cs.bitmap */; };
+		FFCE184D1E748D28001C18C4 /* Cs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18241E748D28001C18C4 /* Cs.bitmap */; };
+		FFCE184E1E748D28001C18C4 /* Ll.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18251E748D28001C18C4 /* Ll.bitmap */; };
+		FFCE184F1E748D28001C18C4 /* Ll.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18251E748D28001C18C4 /* Ll.bitmap */; };
+		FFCE18501E748D28001C18C4 /* Ll.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18251E748D28001C18C4 /* Ll.bitmap */; };
+		FFCE18511E748D28001C18C4 /* Ll.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18251E748D28001C18C4 /* Ll.bitmap */; };
+		FFCE18521E748D28001C18C4 /* Lm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18261E748D28001C18C4 /* Lm.bitmap */; };
+		FFCE18531E748D28001C18C4 /* Lm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18261E748D28001C18C4 /* Lm.bitmap */; };
+		FFCE18541E748D28001C18C4 /* Lm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18261E748D28001C18C4 /* Lm.bitmap */; };
+		FFCE18551E748D28001C18C4 /* Lm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18261E748D28001C18C4 /* Lm.bitmap */; };
+		FFCE18561E748D28001C18C4 /* Lo.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18271E748D28001C18C4 /* Lo.bitmap */; };
+		FFCE18571E748D28001C18C4 /* Lo.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18271E748D28001C18C4 /* Lo.bitmap */; };
+		FFCE18581E748D28001C18C4 /* Lo.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18271E748D28001C18C4 /* Lo.bitmap */; };
+		FFCE18591E748D28001C18C4 /* Lo.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18271E748D28001C18C4 /* Lo.bitmap */; };
+		FFCE185A1E748D28001C18C4 /* Lt.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18281E748D28001C18C4 /* Lt.bitmap */; };
+		FFCE185B1E748D28001C18C4 /* Lt.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18281E748D28001C18C4 /* Lt.bitmap */; };
+		FFCE185C1E748D28001C18C4 /* Lt.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18281E748D28001C18C4 /* Lt.bitmap */; };
+		FFCE185D1E748D28001C18C4 /* Lt.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18281E748D28001C18C4 /* Lt.bitmap */; };
+		FFCE185E1E748D28001C18C4 /* Lu.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18291E748D28001C18C4 /* Lu.bitmap */; };
+		FFCE185F1E748D28001C18C4 /* Lu.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18291E748D28001C18C4 /* Lu.bitmap */; };
+		FFCE18601E748D28001C18C4 /* Lu.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18291E748D28001C18C4 /* Lu.bitmap */; };
+		FFCE18611E748D28001C18C4 /* Lu.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18291E748D28001C18C4 /* Lu.bitmap */; };
+		FFCE18621E748D28001C18C4 /* Mc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182A1E748D28001C18C4 /* Mc.bitmap */; };
+		FFCE18631E748D28001C18C4 /* Mc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182A1E748D28001C18C4 /* Mc.bitmap */; };
+		FFCE18641E748D28001C18C4 /* Mc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182A1E748D28001C18C4 /* Mc.bitmap */; };
+		FFCE18651E748D28001C18C4 /* Mc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182A1E748D28001C18C4 /* Mc.bitmap */; };
+		FFCE18661E748D28001C18C4 /* Me.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182B1E748D28001C18C4 /* Me.bitmap */; };
+		FFCE18671E748D28001C18C4 /* Me.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182B1E748D28001C18C4 /* Me.bitmap */; };
+		FFCE18681E748D28001C18C4 /* Me.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182B1E748D28001C18C4 /* Me.bitmap */; };
+		FFCE18691E748D28001C18C4 /* Me.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182B1E748D28001C18C4 /* Me.bitmap */; };
+		FFCE186A1E748D28001C18C4 /* Mn.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182C1E748D28001C18C4 /* Mn.bitmap */; };
+		FFCE186B1E748D28001C18C4 /* Mn.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182C1E748D28001C18C4 /* Mn.bitmap */; };
+		FFCE186C1E748D28001C18C4 /* Mn.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182C1E748D28001C18C4 /* Mn.bitmap */; };
+		FFCE186D1E748D28001C18C4 /* Mn.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182C1E748D28001C18C4 /* Mn.bitmap */; };
+		FFCE186E1E748D28001C18C4 /* Nd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182D1E748D28001C18C4 /* Nd.bitmap */; };
+		FFCE186F1E748D28001C18C4 /* Nd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182D1E748D28001C18C4 /* Nd.bitmap */; };
+		FFCE18701E748D28001C18C4 /* Nd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182D1E748D28001C18C4 /* Nd.bitmap */; };
+		FFCE18711E748D28001C18C4 /* Nd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182D1E748D28001C18C4 /* Nd.bitmap */; };
+		FFCE18721E748D28001C18C4 /* Nl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182E1E748D28001C18C4 /* Nl.bitmap */; };
+		FFCE18731E748D28001C18C4 /* Nl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182E1E748D28001C18C4 /* Nl.bitmap */; };
+		FFCE18741E748D28001C18C4 /* Nl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182E1E748D28001C18C4 /* Nl.bitmap */; };
+		FFCE18751E748D28001C18C4 /* Nl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182E1E748D28001C18C4 /* Nl.bitmap */; };
+		FFCE18761E748D28001C18C4 /* No.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182F1E748D28001C18C4 /* No.bitmap */; };
+		FFCE18771E748D28001C18C4 /* No.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182F1E748D28001C18C4 /* No.bitmap */; };
+		FFCE18781E748D28001C18C4 /* No.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182F1E748D28001C18C4 /* No.bitmap */; };
+		FFCE18791E748D28001C18C4 /* No.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE182F1E748D28001C18C4 /* No.bitmap */; };
+		FFCE187A1E748D28001C18C4 /* Pc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18301E748D28001C18C4 /* Pc.bitmap */; };
+		FFCE187B1E748D28001C18C4 /* Pc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18301E748D28001C18C4 /* Pc.bitmap */; };
+		FFCE187C1E748D28001C18C4 /* Pc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18301E748D28001C18C4 /* Pc.bitmap */; };
+		FFCE187D1E748D28001C18C4 /* Pc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18301E748D28001C18C4 /* Pc.bitmap */; };
+		FFCE187E1E748D28001C18C4 /* Pd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18311E748D28001C18C4 /* Pd.bitmap */; };
+		FFCE187F1E748D28001C18C4 /* Pd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18311E748D28001C18C4 /* Pd.bitmap */; };
+		FFCE18801E748D28001C18C4 /* Pd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18311E748D28001C18C4 /* Pd.bitmap */; };
+		FFCE18811E748D28001C18C4 /* Pd.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18311E748D28001C18C4 /* Pd.bitmap */; };
+		FFCE18821E748D28001C18C4 /* Pe.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18321E748D28001C18C4 /* Pe.bitmap */; };
+		FFCE18831E748D28001C18C4 /* Pe.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18321E748D28001C18C4 /* Pe.bitmap */; };
+		FFCE18841E748D28001C18C4 /* Pe.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18321E748D28001C18C4 /* Pe.bitmap */; };
+		FFCE18851E748D28001C18C4 /* Pe.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18321E748D28001C18C4 /* Pe.bitmap */; };
+		FFCE18861E748D28001C18C4 /* Pf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18331E748D28001C18C4 /* Pf.bitmap */; };
+		FFCE18871E748D28001C18C4 /* Pf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18331E748D28001C18C4 /* Pf.bitmap */; };
+		FFCE18881E748D28001C18C4 /* Pf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18331E748D28001C18C4 /* Pf.bitmap */; };
+		FFCE18891E748D28001C18C4 /* Pf.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18331E748D28001C18C4 /* Pf.bitmap */; };
+		FFCE188A1E748D28001C18C4 /* Pi.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18341E748D28001C18C4 /* Pi.bitmap */; };
+		FFCE188B1E748D28001C18C4 /* Pi.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18341E748D28001C18C4 /* Pi.bitmap */; };
+		FFCE188C1E748D28001C18C4 /* Pi.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18341E748D28001C18C4 /* Pi.bitmap */; };
+		FFCE188D1E748D28001C18C4 /* Pi.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18341E748D28001C18C4 /* Pi.bitmap */; };
+		FFCE188E1E748D28001C18C4 /* Po.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18351E748D28001C18C4 /* Po.bitmap */; };
+		FFCE188F1E748D28001C18C4 /* Po.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18351E748D28001C18C4 /* Po.bitmap */; };
+		FFCE18901E748D28001C18C4 /* Po.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18351E748D28001C18C4 /* Po.bitmap */; };
+		FFCE18911E748D28001C18C4 /* Po.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18351E748D28001C18C4 /* Po.bitmap */; };
+		FFCE18921E748D28001C18C4 /* Ps.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18361E748D28001C18C4 /* Ps.bitmap */; };
+		FFCE18931E748D28001C18C4 /* Ps.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18361E748D28001C18C4 /* Ps.bitmap */; };
+		FFCE18941E748D28001C18C4 /* Ps.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18361E748D28001C18C4 /* Ps.bitmap */; };
+		FFCE18951E748D28001C18C4 /* Ps.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18361E748D28001C18C4 /* Ps.bitmap */; };
+		FFCE18961E748D28001C18C4 /* Sc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18371E748D28001C18C4 /* Sc.bitmap */; };
+		FFCE18971E748D28001C18C4 /* Sc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18371E748D28001C18C4 /* Sc.bitmap */; };
+		FFCE18981E748D28001C18C4 /* Sc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18371E748D28001C18C4 /* Sc.bitmap */; };
+		FFCE18991E748D28001C18C4 /* Sc.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18371E748D28001C18C4 /* Sc.bitmap */; };
+		FFCE189A1E748D28001C18C4 /* Sk.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18381E748D28001C18C4 /* Sk.bitmap */; };
+		FFCE189B1E748D28001C18C4 /* Sk.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18381E748D28001C18C4 /* Sk.bitmap */; };
+		FFCE189C1E748D28001C18C4 /* Sk.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18381E748D28001C18C4 /* Sk.bitmap */; };
+		FFCE189D1E748D28001C18C4 /* Sk.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18381E748D28001C18C4 /* Sk.bitmap */; };
+		FFCE189E1E748D28001C18C4 /* Sm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18391E748D28001C18C4 /* Sm.bitmap */; };
+		FFCE189F1E748D28001C18C4 /* Sm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18391E748D28001C18C4 /* Sm.bitmap */; };
+		FFCE18A01E748D28001C18C4 /* Sm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18391E748D28001C18C4 /* Sm.bitmap */; };
+		FFCE18A11E748D28001C18C4 /* Sm.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE18391E748D28001C18C4 /* Sm.bitmap */; };
+		FFCE18A21E748D28001C18C4 /* So.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183A1E748D28001C18C4 /* So.bitmap */; };
+		FFCE18A31E748D28001C18C4 /* So.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183A1E748D28001C18C4 /* So.bitmap */; };
+		FFCE18A41E748D28001C18C4 /* So.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183A1E748D28001C18C4 /* So.bitmap */; };
+		FFCE18A51E748D28001C18C4 /* So.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183A1E748D28001C18C4 /* So.bitmap */; };
+		FFCE18A61E748D28001C18C4 /* Zl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183B1E748D28001C18C4 /* Zl.bitmap */; };
+		FFCE18A71E748D28001C18C4 /* Zl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183B1E748D28001C18C4 /* Zl.bitmap */; };
+		FFCE18A81E748D28001C18C4 /* Zl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183B1E748D28001C18C4 /* Zl.bitmap */; };
+		FFCE18A91E748D28001C18C4 /* Zl.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183B1E748D28001C18C4 /* Zl.bitmap */; };
+		FFCE18AA1E748D28001C18C4 /* Zp.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183C1E748D28001C18C4 /* Zp.bitmap */; };
+		FFCE18AB1E748D28001C18C4 /* Zp.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183C1E748D28001C18C4 /* Zp.bitmap */; };
+		FFCE18AC1E748D28001C18C4 /* Zp.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183C1E748D28001C18C4 /* Zp.bitmap */; };
+		FFCE18AD1E748D28001C18C4 /* Zp.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183C1E748D28001C18C4 /* Zp.bitmap */; };
+		FFCE18AE1E748D28001C18C4 /* Zs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183D1E748D28001C18C4 /* Zs.bitmap */; };
+		FFCE18AF1E748D28001C18C4 /* Zs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183D1E748D28001C18C4 /* Zs.bitmap */; };
+		FFCE18B01E748D28001C18C4 /* Zs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183D1E748D28001C18C4 /* Zs.bitmap */; };
+		FFCE18B11E748D28001C18C4 /* Zs.bitmap in Resources */ = {isa = PBXBuildFile; fileRef = FFCE183D1E748D28001C18C4 /* Zs.bitmap */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +140,35 @@
 		FFCE16BD1E7460E9001C18C4 /* MoreCharacterSets.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MoreCharacterSets.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFCE16CB1E7461FE001C18C4 /* MoreCharacterSets.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MoreCharacterSets.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFCE16DD1E746723001C18C4 /* CharacterSetExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharacterSetExtensions.swift; sourceTree = "<group>"; };
+		FFCE18211E748D28001C18C4 /* Cc.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cc.bitmap; sourceTree = "<group>"; };
+		FFCE18221E748D28001C18C4 /* Cf.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cf.bitmap; sourceTree = "<group>"; };
+		FFCE18231E748D28001C18C4 /* Co.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Co.bitmap; sourceTree = "<group>"; };
+		FFCE18241E748D28001C18C4 /* Cs.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cs.bitmap; sourceTree = "<group>"; };
+		FFCE18251E748D28001C18C4 /* Ll.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ll.bitmap; sourceTree = "<group>"; };
+		FFCE18261E748D28001C18C4 /* Lm.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lm.bitmap; sourceTree = "<group>"; };
+		FFCE18271E748D28001C18C4 /* Lo.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lo.bitmap; sourceTree = "<group>"; };
+		FFCE18281E748D28001C18C4 /* Lt.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lt.bitmap; sourceTree = "<group>"; };
+		FFCE18291E748D28001C18C4 /* Lu.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lu.bitmap; sourceTree = "<group>"; };
+		FFCE182A1E748D28001C18C4 /* Mc.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Mc.bitmap; sourceTree = "<group>"; };
+		FFCE182B1E748D28001C18C4 /* Me.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Me.bitmap; sourceTree = "<group>"; };
+		FFCE182C1E748D28001C18C4 /* Mn.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Mn.bitmap; sourceTree = "<group>"; };
+		FFCE182D1E748D28001C18C4 /* Nd.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nd.bitmap; sourceTree = "<group>"; };
+		FFCE182E1E748D28001C18C4 /* Nl.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nl.bitmap; sourceTree = "<group>"; };
+		FFCE182F1E748D28001C18C4 /* No.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = No.bitmap; sourceTree = "<group>"; };
+		FFCE18301E748D28001C18C4 /* Pc.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pc.bitmap; sourceTree = "<group>"; };
+		FFCE18311E748D28001C18C4 /* Pd.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pd.bitmap; sourceTree = "<group>"; };
+		FFCE18321E748D28001C18C4 /* Pe.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pe.bitmap; sourceTree = "<group>"; };
+		FFCE18331E748D28001C18C4 /* Pf.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pf.bitmap; sourceTree = "<group>"; };
+		FFCE18341E748D28001C18C4 /* Pi.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pi.bitmap; sourceTree = "<group>"; };
+		FFCE18351E748D28001C18C4 /* Po.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Po.bitmap; sourceTree = "<group>"; };
+		FFCE18361E748D28001C18C4 /* Ps.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ps.bitmap; sourceTree = "<group>"; };
+		FFCE18371E748D28001C18C4 /* Sc.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sc.bitmap; sourceTree = "<group>"; };
+		FFCE18381E748D28001C18C4 /* Sk.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sk.bitmap; sourceTree = "<group>"; };
+		FFCE18391E748D28001C18C4 /* Sm.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sm.bitmap; sourceTree = "<group>"; };
+		FFCE183A1E748D28001C18C4 /* So.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = So.bitmap; sourceTree = "<group>"; };
+		FFCE183B1E748D28001C18C4 /* Zl.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Zl.bitmap; sourceTree = "<group>"; };
+		FFCE183C1E748D28001C18C4 /* Zp.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Zp.bitmap; sourceTree = "<group>"; };
+		FFCE183D1E748D28001C18C4 /* Zs.bitmap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Zs.bitmap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +207,7 @@
 			isa = PBXGroup;
 			children = (
 				FFCE16A81E745B5A001C18C4 /* Sources */,
+				FFCE16E71E748426001C18C4 /* Resources */,
 				FFCE169C1E745A5A001C18C4 /* Products */,
 			);
 			indentWidth = 8;
@@ -103,6 +249,50 @@
 				FFCE169E1E745A5A001C18C4 /* MoreCharacterSets.h */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FFCE16E71E748426001C18C4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FFCE18201E748C74001C18C4 /* Bitmaps */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FFCE18201E748C74001C18C4 /* Bitmaps */ = {
+			isa = PBXGroup;
+			children = (
+				FFCE18211E748D28001C18C4 /* Cc.bitmap */,
+				FFCE18221E748D28001C18C4 /* Cf.bitmap */,
+				FFCE18231E748D28001C18C4 /* Co.bitmap */,
+				FFCE18241E748D28001C18C4 /* Cs.bitmap */,
+				FFCE18251E748D28001C18C4 /* Ll.bitmap */,
+				FFCE18261E748D28001C18C4 /* Lm.bitmap */,
+				FFCE18271E748D28001C18C4 /* Lo.bitmap */,
+				FFCE18281E748D28001C18C4 /* Lt.bitmap */,
+				FFCE18291E748D28001C18C4 /* Lu.bitmap */,
+				FFCE182A1E748D28001C18C4 /* Mc.bitmap */,
+				FFCE182B1E748D28001C18C4 /* Me.bitmap */,
+				FFCE182C1E748D28001C18C4 /* Mn.bitmap */,
+				FFCE182D1E748D28001C18C4 /* Nd.bitmap */,
+				FFCE182E1E748D28001C18C4 /* Nl.bitmap */,
+				FFCE182F1E748D28001C18C4 /* No.bitmap */,
+				FFCE18301E748D28001C18C4 /* Pc.bitmap */,
+				FFCE18311E748D28001C18C4 /* Pd.bitmap */,
+				FFCE18321E748D28001C18C4 /* Pe.bitmap */,
+				FFCE18331E748D28001C18C4 /* Pf.bitmap */,
+				FFCE18341E748D28001C18C4 /* Pi.bitmap */,
+				FFCE18351E748D28001C18C4 /* Po.bitmap */,
+				FFCE18361E748D28001C18C4 /* Ps.bitmap */,
+				FFCE18371E748D28001C18C4 /* Sc.bitmap */,
+				FFCE18381E748D28001C18C4 /* Sk.bitmap */,
+				FFCE18391E748D28001C18C4 /* Sm.bitmap */,
+				FFCE183A1E748D28001C18C4 /* So.bitmap */,
+				FFCE183B1E748D28001C18C4 /* Zl.bitmap */,
+				FFCE183C1E748D28001C18C4 /* Zp.bitmap */,
+				FFCE183D1E748D28001C18C4 /* Zs.bitmap */,
+			);
+			name = Bitmaps;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -271,6 +461,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFCE183E1E748D28001C18C4 /* Cc.bitmap in Resources */,
+				FFCE18461E748D28001C18C4 /* Co.bitmap in Resources */,
+				FFCE18AA1E748D28001C18C4 /* Zp.bitmap in Resources */,
+				FFCE189A1E748D28001C18C4 /* Sk.bitmap in Resources */,
+				FFCE18861E748D28001C18C4 /* Pf.bitmap in Resources */,
+				FFCE18921E748D28001C18C4 /* Ps.bitmap in Resources */,
+				FFCE185E1E748D28001C18C4 /* Lu.bitmap in Resources */,
+				FFCE18821E748D28001C18C4 /* Pe.bitmap in Resources */,
+				FFCE186E1E748D28001C18C4 /* Nd.bitmap in Resources */,
+				FFCE186A1E748D28001C18C4 /* Mn.bitmap in Resources */,
+				FFCE189E1E748D28001C18C4 /* Sm.bitmap in Resources */,
+				FFCE18561E748D28001C18C4 /* Lo.bitmap in Resources */,
+				FFCE18621E748D28001C18C4 /* Mc.bitmap in Resources */,
+				FFCE188A1E748D28001C18C4 /* Pi.bitmap in Resources */,
+				FFCE187A1E748D28001C18C4 /* Pc.bitmap in Resources */,
+				FFCE18A61E748D28001C18C4 /* Zl.bitmap in Resources */,
+				FFCE18961E748D28001C18C4 /* Sc.bitmap in Resources */,
+				FFCE184E1E748D28001C18C4 /* Ll.bitmap in Resources */,
+				FFCE18661E748D28001C18C4 /* Me.bitmap in Resources */,
+				FFCE185A1E748D28001C18C4 /* Lt.bitmap in Resources */,
+				FFCE18761E748D28001C18C4 /* No.bitmap in Resources */,
+				FFCE187E1E748D28001C18C4 /* Pd.bitmap in Resources */,
+				FFCE18AE1E748D28001C18C4 /* Zs.bitmap in Resources */,
+				FFCE18521E748D28001C18C4 /* Lm.bitmap in Resources */,
+				FFCE184A1E748D28001C18C4 /* Cs.bitmap in Resources */,
+				FFCE18A21E748D28001C18C4 /* So.bitmap in Resources */,
+				FFCE188E1E748D28001C18C4 /* Po.bitmap in Resources */,
+				FFCE18721E748D28001C18C4 /* Nl.bitmap in Resources */,
+				FFCE18421E748D28001C18C4 /* Cf.bitmap in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +497,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFCE183F1E748D28001C18C4 /* Cc.bitmap in Resources */,
+				FFCE18471E748D28001C18C4 /* Co.bitmap in Resources */,
+				FFCE18AB1E748D28001C18C4 /* Zp.bitmap in Resources */,
+				FFCE189B1E748D28001C18C4 /* Sk.bitmap in Resources */,
+				FFCE18871E748D28001C18C4 /* Pf.bitmap in Resources */,
+				FFCE18931E748D28001C18C4 /* Ps.bitmap in Resources */,
+				FFCE185F1E748D28001C18C4 /* Lu.bitmap in Resources */,
+				FFCE18831E748D28001C18C4 /* Pe.bitmap in Resources */,
+				FFCE186F1E748D28001C18C4 /* Nd.bitmap in Resources */,
+				FFCE186B1E748D28001C18C4 /* Mn.bitmap in Resources */,
+				FFCE189F1E748D28001C18C4 /* Sm.bitmap in Resources */,
+				FFCE18571E748D28001C18C4 /* Lo.bitmap in Resources */,
+				FFCE18631E748D28001C18C4 /* Mc.bitmap in Resources */,
+				FFCE188B1E748D28001C18C4 /* Pi.bitmap in Resources */,
+				FFCE187B1E748D28001C18C4 /* Pc.bitmap in Resources */,
+				FFCE18A71E748D28001C18C4 /* Zl.bitmap in Resources */,
+				FFCE18971E748D28001C18C4 /* Sc.bitmap in Resources */,
+				FFCE184F1E748D28001C18C4 /* Ll.bitmap in Resources */,
+				FFCE18671E748D28001C18C4 /* Me.bitmap in Resources */,
+				FFCE185B1E748D28001C18C4 /* Lt.bitmap in Resources */,
+				FFCE18771E748D28001C18C4 /* No.bitmap in Resources */,
+				FFCE187F1E748D28001C18C4 /* Pd.bitmap in Resources */,
+				FFCE18AF1E748D28001C18C4 /* Zs.bitmap in Resources */,
+				FFCE18531E748D28001C18C4 /* Lm.bitmap in Resources */,
+				FFCE184B1E748D28001C18C4 /* Cs.bitmap in Resources */,
+				FFCE18A31E748D28001C18C4 /* So.bitmap in Resources */,
+				FFCE188F1E748D28001C18C4 /* Po.bitmap in Resources */,
+				FFCE18731E748D28001C18C4 /* Nl.bitmap in Resources */,
+				FFCE18431E748D28001C18C4 /* Cf.bitmap in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +533,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFCE18401E748D28001C18C4 /* Cc.bitmap in Resources */,
+				FFCE18481E748D28001C18C4 /* Co.bitmap in Resources */,
+				FFCE18AC1E748D28001C18C4 /* Zp.bitmap in Resources */,
+				FFCE189C1E748D28001C18C4 /* Sk.bitmap in Resources */,
+				FFCE18881E748D28001C18C4 /* Pf.bitmap in Resources */,
+				FFCE18941E748D28001C18C4 /* Ps.bitmap in Resources */,
+				FFCE18601E748D28001C18C4 /* Lu.bitmap in Resources */,
+				FFCE18841E748D28001C18C4 /* Pe.bitmap in Resources */,
+				FFCE18701E748D28001C18C4 /* Nd.bitmap in Resources */,
+				FFCE186C1E748D28001C18C4 /* Mn.bitmap in Resources */,
+				FFCE18A01E748D28001C18C4 /* Sm.bitmap in Resources */,
+				FFCE18581E748D28001C18C4 /* Lo.bitmap in Resources */,
+				FFCE18641E748D28001C18C4 /* Mc.bitmap in Resources */,
+				FFCE188C1E748D28001C18C4 /* Pi.bitmap in Resources */,
+				FFCE187C1E748D28001C18C4 /* Pc.bitmap in Resources */,
+				FFCE18A81E748D28001C18C4 /* Zl.bitmap in Resources */,
+				FFCE18981E748D28001C18C4 /* Sc.bitmap in Resources */,
+				FFCE18501E748D28001C18C4 /* Ll.bitmap in Resources */,
+				FFCE18681E748D28001C18C4 /* Me.bitmap in Resources */,
+				FFCE185C1E748D28001C18C4 /* Lt.bitmap in Resources */,
+				FFCE18781E748D28001C18C4 /* No.bitmap in Resources */,
+				FFCE18801E748D28001C18C4 /* Pd.bitmap in Resources */,
+				FFCE18B01E748D28001C18C4 /* Zs.bitmap in Resources */,
+				FFCE18541E748D28001C18C4 /* Lm.bitmap in Resources */,
+				FFCE184C1E748D28001C18C4 /* Cs.bitmap in Resources */,
+				FFCE18A41E748D28001C18C4 /* So.bitmap in Resources */,
+				FFCE18901E748D28001C18C4 /* Po.bitmap in Resources */,
+				FFCE18741E748D28001C18C4 /* Nl.bitmap in Resources */,
+				FFCE18441E748D28001C18C4 /* Cf.bitmap in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +569,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFCE18411E748D28001C18C4 /* Cc.bitmap in Resources */,
+				FFCE18491E748D28001C18C4 /* Co.bitmap in Resources */,
+				FFCE18AD1E748D28001C18C4 /* Zp.bitmap in Resources */,
+				FFCE189D1E748D28001C18C4 /* Sk.bitmap in Resources */,
+				FFCE18891E748D28001C18C4 /* Pf.bitmap in Resources */,
+				FFCE18951E748D28001C18C4 /* Ps.bitmap in Resources */,
+				FFCE18611E748D28001C18C4 /* Lu.bitmap in Resources */,
+				FFCE18851E748D28001C18C4 /* Pe.bitmap in Resources */,
+				FFCE18711E748D28001C18C4 /* Nd.bitmap in Resources */,
+				FFCE186D1E748D28001C18C4 /* Mn.bitmap in Resources */,
+				FFCE18A11E748D28001C18C4 /* Sm.bitmap in Resources */,
+				FFCE18591E748D28001C18C4 /* Lo.bitmap in Resources */,
+				FFCE18651E748D28001C18C4 /* Mc.bitmap in Resources */,
+				FFCE188D1E748D28001C18C4 /* Pi.bitmap in Resources */,
+				FFCE187D1E748D28001C18C4 /* Pc.bitmap in Resources */,
+				FFCE18A91E748D28001C18C4 /* Zl.bitmap in Resources */,
+				FFCE18991E748D28001C18C4 /* Sc.bitmap in Resources */,
+				FFCE18511E748D28001C18C4 /* Ll.bitmap in Resources */,
+				FFCE18691E748D28001C18C4 /* Me.bitmap in Resources */,
+				FFCE185D1E748D28001C18C4 /* Lt.bitmap in Resources */,
+				FFCE18791E748D28001C18C4 /* No.bitmap in Resources */,
+				FFCE18811E748D28001C18C4 /* Pd.bitmap in Resources */,
+				FFCE18B11E748D28001C18C4 /* Zs.bitmap in Resources */,
+				FFCE18551E748D28001C18C4 /* Lm.bitmap in Resources */,
+				FFCE184D1E748D28001C18C4 /* Cs.bitmap in Resources */,
+				FFCE18A51E748D28001C18C4 /* So.bitmap in Resources */,
+				FFCE18911E748D28001C18C4 /* Po.bitmap in Resources */,
+				FFCE18751E748D28001C18C4 /* Nl.bitmap in Resources */,
+				FFCE18451E748D28001C18C4 /* Cf.bitmap in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
