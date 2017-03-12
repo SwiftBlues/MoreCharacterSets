@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'MoreCharacterSets'
-  s.version = '1.0.0'
+  s.version = '1.0.2'
   s.summary = 'A CharacterSet extension that provides character sets for Unicode General Categories.'
   s.description = <<-DESC
 This library adds additional character sets that correspond to Unicode General Categories (<http://www.unicode.org/versions/Unicode9.0.0/ch04.pdf#G134153>).
@@ -14,6 +14,6 @@ DESC
   s.tvos.deployment_target = '9.0'
   s.watchos.deployment_target = '2.0' 
   s.source_files = 'Sources/**/*'
-  s.resource_bundles = { 'MoreCharacterSets' => ['Resources/**/*'] }
+  s.resource_bundle = { 'MoreCharacterSets' => 'Resources/**/*' }
 end
 

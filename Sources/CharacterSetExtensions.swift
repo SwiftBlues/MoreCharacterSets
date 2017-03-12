@@ -217,10 +217,38 @@ extension CharacterSet {
 
 private class _Dummy {}
 
-private let _bundle = Bundle(for: _Dummy.self)
+private let _bundle: Bundle? = {
+	let packageName = "MoreCharacterSets"
+
+	if
+		let cocoapodsBundle = Bundle(identifier: "org.cocoapods.\(packageName)"),
+		let path = cocoapodsBundle.path(forResource: packageName, ofType: "bundle"),
+		let resourcesBundle = Bundle(path: path)
+	{
+		return resourcesBundle
+	}
+
+	if let bundle = Bundle(identifier: "org.swiftblues.\(packageName)") {
+		return bundle
+	}
+
+	return nil
+}()
 
 private func _makeSet(_ resource: String) -> CharacterSet {
-	return CharacterSet(contentsOfFile: _bundle.path(forResource: resource, ofType: "bitmap")!)!
+	guard let bundle = _bundle else {
+		fatalError("Resources bundle not found")
+	}
+
+	guard let file = bundle.path(forResource: resource, ofType: "bitmap") else {
+		fatalError("Resource \(resource) not found in resources bundle")
+	}
+
+	guard let characterSet = CharacterSet(contentsOfFile: file) else {
+		fatalError("Could not create CharacterSet from resource file \(file)")
+	}
+
+	return characterSet
 }
 
 private let _Cc = _makeSet("Cc")
