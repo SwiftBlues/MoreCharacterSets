@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'MoreCharacterSets'
-  s.version = '1.0.2'
+  s.version = '1.0.3'
   s.summary = 'A CharacterSet extension that provides character sets for Unicode General Categories.'
   s.description = <<-DESC
 This library adds additional character sets that correspond to Unicode General Categories (<http://www.unicode.org/versions/Unicode9.0.0/ch04.pdf#G134153>).
